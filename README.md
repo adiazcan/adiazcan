@@ -6,16 +6,10 @@ You'll here find my public repositories. Feel free to contact me if you have any
 
 ![Alberto's github stats](https://github-readme-stats.vercel.app/api?username=adiazcan&show_icons=true)
 
-<p>
-  <a href="https://twitter.com/adiazcan">
-    <img align="left" alt="Alberto Diaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/albertodiazmartin/">
-    <img align="left" alt="Alberto's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://adiazcan.gihub.io/">
-    <img align="left" alt="Alberto Diaz's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" />
-  </a>
+Chat with me on Twitter or connect on LinkedIn
+<p align="left">
+	<a href="https://twitter.com/adiazcan"><img src="https://img.shields.io/twitter/follow/adiazcan?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/albertodiazmartin"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 <!--
