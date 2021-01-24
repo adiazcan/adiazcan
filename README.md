@@ -4,6 +4,8 @@ I'm a professional with more than 15 years of experience in the IT Industry, all
 
 You'll here find my public repositories. Feel free to contact me if you have any suggestions or questions.
 
+![Alberto's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiazcan&show_icons=true)
+
 ![Alberto's github stats](https://github-readme-stats.vercel.app/api?username=adiazcan&show_icons=true)
 
 Chat with me on Twitter or connect on LinkedIn
